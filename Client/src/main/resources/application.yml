@@ -1,0 +1,5 @@
+eureka:
+  instance:
+    hostname: localhost
+    nonSecurePort: 8088
+    preferIpAddress: true
